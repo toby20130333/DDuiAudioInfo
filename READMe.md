@@ -41,7 +41,7 @@ This project aims at bringing the power of audio inforamtion to Qt application.
 
 # Summary
 * [How to build](#how-to-build)
-* [How to use with QREnCode](#how-to-use-with-qml-plugins)
+* [How to use with DDuiTaglib](#how-to-use-with-qml-plugins)
 * [How to extend](#how-to-extend)
 * [Todo](#todo)
 
